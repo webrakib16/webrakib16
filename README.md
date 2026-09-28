@@ -2,8 +2,10 @@
 I'm Rakib, an aspiring Full Stack Web Developer from Bangladesh.<br>
 I have built my frontend foundation with HTML5, CSS3, JavaScript, ES6, TypeScript, React, and Next.js.<br>
 Currently, I'm expanding my skills in backend development, APIs, authentication, and databases while building real-world projects.<br>
+
 I enjoy solving problems, learning new technologies, and creating modern web experiences.<br>
 Beyond coding, I'm a Chemistry student with an interest in creative work and visual design.<br>
+
 Learn → Build → Improve → Repeat 🚀
 
 ## 🌐 Socials:
